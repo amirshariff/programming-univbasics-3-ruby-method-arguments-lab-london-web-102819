@@ -10,7 +10,10 @@ end
 introduction("Josh")
 
 def introduction_with_language(name,language)
-  puts 
+  puts "Hi my name is #{name} is and i am studying #{language}"
+end
+
+introduction_with_language("John","React")
 
 
 
